@@ -1,2 +1,0 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/aomkhunpanitchot/Documents/flutter/dodo_api/target/debug/build/typenum-fc574da5472bc1cf/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/aomkhunpanitchot/Documents/flutter/dodo_api/target/debug/build/typenum-fc574da5472bc1cf/out/op.rs
