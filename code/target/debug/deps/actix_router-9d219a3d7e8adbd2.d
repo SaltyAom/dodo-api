@@ -1,0 +1,10 @@
+/Users/aomkhunpanitchot/Documents/flutter/dodo_api/target/debug/deps/actix_router-9d219a3d7e8adbd2.rmeta: /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/lib.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/de.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/path.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/resource.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/router.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/url.rs
+
+/Users/aomkhunpanitchot/Documents/flutter/dodo_api/target/debug/deps/actix_router-9d219a3d7e8adbd2.d: /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/lib.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/de.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/path.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/resource.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/router.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/url.rs
+
+/Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/lib.rs:
+/Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/de.rs:
+/Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/path.rs:
+/Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/resource.rs:
+/Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/router.rs:
+/Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/url.rs:

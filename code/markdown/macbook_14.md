@@ -1,0 +1,1 @@
+Lol, this is just a baseless rumor that many company usually make news of for clickbait.

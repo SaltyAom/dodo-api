@@ -1,0 +1,14 @@
+{
+    "name": "dodo_api",
+    "scripts": {
+        "up": "cd docker && pulumi up && cd ../cloud\\ run && pulumi up"
+    },
+    "devDependencies": {
+        "@types/node": "^10.0.0"
+    },
+    "dependencies": {
+        "@pulumi/docker": "^2.10.0",
+        "@pulumi/gcp": "^4.0.0",
+        "@pulumi/pulumi": "^2.0.0"
+    }
+}

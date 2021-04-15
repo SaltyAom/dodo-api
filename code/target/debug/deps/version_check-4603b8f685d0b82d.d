@@ -1,0 +1,10 @@
+/Users/aomkhunpanitchot/Documents/flutter/dodo_api/target/debug/deps/version_check-4603b8f685d0b82d.rmeta: /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/lib.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/version.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/channel.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/date.rs
+
+/Users/aomkhunpanitchot/Documents/flutter/dodo_api/target/debug/deps/libversion_check-4603b8f685d0b82d.rlib: /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/lib.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/version.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/channel.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/date.rs
+
+/Users/aomkhunpanitchot/Documents/flutter/dodo_api/target/debug/deps/version_check-4603b8f685d0b82d.d: /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/lib.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/version.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/channel.rs /Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/date.rs
+
+/Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/lib.rs:
+/Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/version.rs:
+/Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/channel.rs:
+/Users/aomkhunpanitchot/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.3/src/date.rs:
